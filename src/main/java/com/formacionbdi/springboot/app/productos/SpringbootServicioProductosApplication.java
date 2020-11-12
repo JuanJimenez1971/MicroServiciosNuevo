@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 //cambio en develop22222222
+
+//parece que asi si 
 public class SpringbootServicioProductosApplication {
 
 	public static void main(String[] args) {
