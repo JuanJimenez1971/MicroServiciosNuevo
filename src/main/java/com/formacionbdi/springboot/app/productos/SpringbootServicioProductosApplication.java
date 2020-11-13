@@ -10,6 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootServicioProductosApplication {
 
 	public static void main(String[] args) {
+		
+		String nombre="";
 		SpringApplication.run(SpringbootServicioProductosApplication.class, args);
 	}
 
