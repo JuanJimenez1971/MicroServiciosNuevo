@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-//cambio en develop22222222
+//cambio master
 
 //parece que asi si 
 public class SpringbootServicioProductosApplication {
